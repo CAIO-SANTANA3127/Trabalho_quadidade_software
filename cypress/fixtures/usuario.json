@@ -1,0 +1,18 @@
+{
+  "nome": "Aluno Teste",
+  "senha": "Senha@123",
+  "titulo": "Mr",
+  "diaNascimento": "10",
+  "mesNascimento": "5",
+  "anoNascimento": "2000",
+  "primeiroNome": "Aluno",
+  "sobrenome": "Teste",
+  "empresa": "Unilasalle RJ",
+  "endereco": "Rua das Flores, 123",
+  "endereco2": "Apto 101",
+  "pais": "Canada",
+  "estado": "Ontario",
+  "cidade": "Toronto",
+  "cep": "12345",
+  "celular": "21999999999"
+}

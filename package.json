@@ -1,0 +1,15 @@
+{
+  "name": "cypress-automationexercise",
+  "version": "1.0.0",
+  "description": "Trabalho Final - Automação de 10 cenários de teste do site Automation Exercise com Cypress",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "test": "cypress run --browser chrome"
+  },
+  "keywords": ["cypress", "e2e", "automationexercise"],
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.0.0"
+  }
+}
